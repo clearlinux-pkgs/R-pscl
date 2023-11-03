@@ -5,7 +5,7 @@
 #
 Name     : R-pscl
 Version  : 1.5.5.1
-Release  : 40
+Release  : 41
 URL      : https://cran.r-project.org/src/contrib/pscl_1.5.5.1.tar.gz
 Source0  : https://cran.r-project.org/src/contrib/pscl_1.5.5.1.tar.gz
 Summary  : Political Science Computational Laboratory
